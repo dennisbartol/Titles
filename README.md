@@ -1,6 +1,6 @@
 # Multiple document.body titles 
 
-Achies through setInterval & document.title : </br> 
+Achieved through (JS) setInterval & document.title : </br> 
 
 let titles = ["Welcome to my website !", "Home of cool and creative stuff", "Amazing content !"]; </br>
 
